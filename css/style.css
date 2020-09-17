@@ -5,3 +5,13 @@
     margin: 1em;
 }
 
+.portada{
+    padding: 40px 0;
+    background: #f4f4f4;
+}
+
+.imagen{
+    float: left;
+}
+
+
