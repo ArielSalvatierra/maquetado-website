@@ -16,7 +16,7 @@
 
 .seccionnegra{
     background: black;
-    padding: 5em 10em;
+    padding: 3em 10em;
     margin: -20px 0px;
 }
 
@@ -31,4 +31,14 @@
     padding: 1em 10em;
 
 }
+
+.circulo {
+    height: 5em;
+    width: 5em;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+    align-content: center;
+    text-align: center;
+  }
 
